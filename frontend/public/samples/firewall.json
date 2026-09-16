@@ -1,0 +1,1 @@
+{"timestamp":"2026-09-16T12:34:56+00:00","source":{"address":"192.0.2.25","port":49822},"destination":{"address":"198.51.100.10","port":443},"disposition":"permitted","protocol":6,"severity":"medium","bytes":8124,"sensor_id":"edge-west-02","message":"TLS session permitted"}

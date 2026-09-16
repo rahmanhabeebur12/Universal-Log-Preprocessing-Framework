@@ -1,0 +1,2 @@
+Receive Time,Serial Number,Type,Subtype,Source address,Destination address,Source port,Destination port,IP Protocol,Action,Rule,Application,Bytes,Packets,Severity,Session ID
+2026-09-16T12:34:56Z,012345678901,TRAFFIC,end,10.1.4.25,203.0.113.80,51204,443,tcp,allow,Branch-Web,ssl,11450,32,informational,7230192

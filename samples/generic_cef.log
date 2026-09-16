@@ -1,0 +1,1 @@
+CEF:0|Acme Security|Edge Gateway|5.2|FW-1001|Outbound connection blocked|7|src=10.4.2.19 dst=198.51.100.44 spt=53921 dpt=22 proto=6 act=blocked rt=2026-09-16T12:34:56Z cs1=egress-policy
